@@ -1,5 +1,3 @@
-## Harrison
-
 ## Programming languages
 ![My Skills](https://skillicons.dev/icons?i=js,ts,dart,rust,php,cs,cpp)
 
