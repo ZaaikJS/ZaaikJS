@@ -1,5 +1,6 @@
 ## 👋 About me
-Full-Stack Developer focused on web, desktop, and mobile solutions. Experienced in building scalable SaaS applications with a security-first mindset and a passion for delivering high-quality user experiences.
+# Full-Stack Developer focused on web, desktop, and mobile solutions. Experienced in building scalable SaaS applications with a security-first mindset and a passion for delivering high-quality user experiences.
+# Currently, CEO at [Voxy Games](https://voxygames.com).
 
 ## 🧰 Skills
 
